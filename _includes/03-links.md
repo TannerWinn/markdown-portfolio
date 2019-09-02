@@ -1,1 +1,1 @@
-https://www.csusm.edu
+[text](https://www.csusm.edu)
